@@ -1,0 +1,131 @@
+{
+  "student_id": "STU_002",
+  "name": "Priya Patel",
+  "total_attempts": 7,
+  "aborted_sessions": 0,
+  "avg_completion_rate_pct": 97.4,
+  "performance_trend": "declining",
+  "improvement_score_pct_points": -12.5,
+  "accuracy_score": 16.2,
+  "speed_score": 98.4,
+  "strengths": [
+    "Thermodynamics",
+    "Laws of Motion",
+    "Heat Transfer"
+  ],
+  "weaknesses": [
+    "Algebra",
+    "Coordinate Geometry",
+    "Heat Transfer"
+  ],
+  "chapter_breakdown": {
+    "Thermodynamics": {
+      "attempts": 2,
+      "avg_score_pct": 22.9,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Laws of Motion": {
+      "attempts": 2,
+      "avg_score_pct": 22.9,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Physical Chemistry": {
+      "attempts": 2,
+      "avg_score_pct": null,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Chemical Bonding": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Coordinate Geometry": {
+      "attempts": 2,
+      "avg_score_pct": 11.2,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Algebra": {
+      "attempts": 1,
+      "avg_score_pct": 10.0,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Organic Chemistry": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Heat Transfer": {
+      "attempts": 1,
+      "avg_score_pct": 12.5,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Rotational Mechanics": {
+      "attempts": 1,
+      "avg_score_pct": 12.5,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Calculus": {
+      "attempts": 1,
+      "avg_score_pct": 12.5,
+      "subjects": [
+        "Mathematics"
+      ]
+    }
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "attempts": 3,
+      "avg_score_pct": 19.4,
+      "chapters_covered": [
+        "Heat Transfer",
+        "Laws of Motion",
+        "Rotational Mechanics",
+        "Thermodynamics"
+      ]
+    },
+    "Chemistry": {
+      "attempts": 2,
+      "avg_score_pct": null,
+      "chapters_covered": [
+        "Chemical Bonding",
+        "Organic Chemistry",
+        "Physical Chemistry"
+      ]
+    },
+    "Mathematics": {
+      "attempts": 2,
+      "avg_score_pct": 11.2,
+      "chapters_covered": [
+        "Algebra",
+        "Calculus",
+        "Coordinate Geometry"
+      ]
+    }
+  },
+  "overall_avg_score_pct": 16.2,
+  "slow_session_count": 0,
+  "fast_session_count": 1,
+  "bad_questions_ignored": {
+    "duplicate_id": 5,
+    "missing_answer": 5,
+    "null_difficulty_defaulted": 5
+  }
+}

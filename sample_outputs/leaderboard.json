@@ -1,0 +1,124 @@
+{
+  "leaderboard": [
+    {
+      "student_id": "STU_010",
+      "name": "Neha Joshi",
+      "score": 78.82,
+      "overall_avg_pct": 76.8,
+      "strength": "Optics",
+      "weakness": "Rotational Mechanics",
+      "focus_area": "Rotational Mechanics",
+      "trend": "stable",
+      "raw_marks_sum": 655.0,
+      "rank": 1
+    },
+    {
+      "student_id": "STU_004",
+      "name": "Meera Iyer",
+      "score": 63.66,
+      "overall_avg_pct": 45.8,
+      "strength": "Optics",
+      "weakness": "Electrostatics",
+      "focus_area": "Electrostatics",
+      "trend": "improving",
+      "raw_marks_sum": 329.0,
+      "rank": 2
+    },
+    {
+      "student_id": "STU_009",
+      "name": "Amit Verma",
+      "score": 60.8,
+      "overall_avg_pct": 41.5,
+      "strength": "Rotational Mechanics",
+      "weakness": "Optics",
+      "focus_area": "Optics",
+      "trend": "stable",
+      "raw_marks_sum": 246.0,
+      "rank": 3
+    },
+    {
+      "student_id": "STU_007",
+      "name": "Vikram Singh",
+      "score": 58.8,
+      "overall_avg_pct": 52.5,
+      "strength": "Thermodynamics",
+      "weakness": "Electrostatics",
+      "focus_area": "Electrostatics",
+      "trend": "declining",
+      "raw_marks_sum": 392.0,
+      "rank": 4
+    },
+    {
+      "student_id": "STU_003",
+      "name": "Rohan Gupta",
+      "score": 57.47,
+      "overall_avg_pct": 44.2,
+      "strength": "Organic Chemistry",
+      "weakness": "Rotational Mechanics",
+      "focus_area": "Rotational Mechanics",
+      "trend": "stable",
+      "raw_marks_sum": 290.0,
+      "rank": 5
+    },
+    {
+      "student_id": "STU_006",
+      "name": "Ananya Reddy",
+      "score": 45.66,
+      "overall_avg_pct": 38.0,
+      "strength": "Heat Transfer",
+      "weakness": "Organic Chemistry",
+      "focus_area": "Organic Chemistry",
+      "trend": "stable",
+      "raw_marks_sum": 344.0,
+      "rank": 6
+    },
+    {
+      "student_id": "STU_001",
+      "name": "Arjun Sharma",
+      "score": 45.63,
+      "overall_avg_pct": 33.5,
+      "strength": "Organic Chemistry",
+      "weakness": "Thermodynamics",
+      "focus_area": "Thermodynamics",
+      "trend": "declining",
+      "raw_marks_sum": 213.0,
+      "rank": 7
+    },
+    {
+      "student_id": "STU_008",
+      "name": "Deepa Krishnan",
+      "score": 42.45,
+      "overall_avg_pct": 31.6,
+      "strength": "Rotational Mechanics",
+      "weakness": "Coordinate Geometry",
+      "focus_area": "Coordinate Geometry",
+      "trend": "declining",
+      "raw_marks_sum": 313.0,
+      "rank": 8
+    },
+    {
+      "student_id": "STU_002",
+      "name": "Priya Patel",
+      "score": 40.8,
+      "overall_avg_pct": 16.2,
+      "strength": "Thermodynamics",
+      "weakness": "Algebra",
+      "focus_area": "Algebra",
+      "trend": "declining",
+      "raw_marks_sum": 135.0,
+      "rank": 9
+    },
+    {
+      "student_id": "STU_005",
+      "name": "Karan Mehta",
+      "score": 39.83,
+      "overall_avg_pct": 29.5,
+      "strength": "Heat Transfer",
+      "weakness": "Organic Chemistry",
+      "focus_area": "Organic Chemistry",
+      "trend": "declining",
+      "raw_marks_sum": 180.0,
+      "rank": 10
+    }
+  ]
+}

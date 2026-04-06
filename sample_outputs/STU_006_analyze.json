@@ -1,0 +1,93 @@
+{
+  "student_id": "STU_006",
+  "name": "Ananya Reddy",
+  "total_attempts": 7,
+  "aborted_sessions": 0,
+  "avg_completion_rate_pct": 82.9,
+  "performance_trend": "stable",
+  "improvement_score_pct_points": -5.0,
+  "accuracy_score": 38.0,
+  "speed_score": 81.1,
+  "strengths": [
+    "Heat Transfer",
+    "Kinematics",
+    "Electrostatics"
+  ],
+  "weaknesses": [
+    "Organic Chemistry",
+    "Physical Chemistry",
+    "Electrostatics"
+  ],
+  "chapter_breakdown": {
+    "Kinematics": {
+      "attempts": 3,
+      "avg_score_pct": 83.5,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Heat Transfer": {
+      "attempts": 2,
+      "avg_score_pct": 86.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Organic Chemistry": {
+      "attempts": 3,
+      "avg_score_pct": 7.7,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Physical Chemistry": {
+      "attempts": 3,
+      "avg_score_pct": 7.7,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Electrostatics": {
+      "attempts": 2,
+      "avg_score_pct": 81.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Rotational Mechanics": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Physics"
+      ]
+    }
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "attempts": 4,
+      "avg_score_pct": 83.5,
+      "chapters_covered": [
+        "Electrostatics",
+        "Heat Transfer",
+        "Kinematics",
+        "Rotational Mechanics"
+      ]
+    },
+    "Chemistry": {
+      "attempts": 3,
+      "avg_score_pct": 7.7,
+      "chapters_covered": [
+        "Organic Chemistry",
+        "Physical Chemistry"
+      ]
+    }
+  },
+  "overall_avg_score_pct": 38.0,
+  "slow_session_count": 0,
+  "fast_session_count": 0,
+  "bad_questions_ignored": {
+    "duplicate_id": 5,
+    "missing_answer": 5,
+    "null_difficulty_defaulted": 5
+  }
+}

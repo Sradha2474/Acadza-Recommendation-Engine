@@ -1,0 +1,115 @@
+{
+  "student_id": "STU_005",
+  "name": "Karan Mehta",
+  "total_attempts": 6,
+  "aborted_sessions": 2,
+  "avg_completion_rate_pct": 78.0,
+  "performance_trend": "declining",
+  "improvement_score_pct_points": -62.0,
+  "accuracy_score": 29.5,
+  "speed_score": 71.7,
+  "strengths": [
+    "Heat Transfer",
+    "Kinematics",
+    "Rotational Mechanics"
+  ],
+  "weaknesses": [
+    "Organic Chemistry",
+    "Chemical Bonding",
+    "Rotational Mechanics"
+  ],
+  "chapter_breakdown": {
+    "Kinematics": {
+      "attempts": 3,
+      "avg_score_pct": 34.3,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Heat Transfer": {
+      "attempts": 1,
+      "avg_score_pct": 63.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Algebra": {
+      "attempts": 2,
+      "avg_score_pct": null,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Calculus": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Rotational Mechanics": {
+      "attempts": 2,
+      "avg_score_pct": 20.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Organic Chemistry": {
+      "attempts": 1,
+      "avg_score_pct": 15.0,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Chemical Bonding": {
+      "attempts": 1,
+      "avg_score_pct": 15.0,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Probability": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Mathematics"
+      ]
+    }
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "attempts": 3,
+      "avg_score_pct": 34.3,
+      "chapters_covered": [
+        "Heat Transfer",
+        "Kinematics",
+        "Rotational Mechanics"
+      ]
+    },
+    "Mathematics": {
+      "attempts": 2,
+      "avg_score_pct": null,
+      "chapters_covered": [
+        "Algebra",
+        "Calculus",
+        "Probability"
+      ]
+    },
+    "Chemistry": {
+      "attempts": 1,
+      "avg_score_pct": 15.0,
+      "chapters_covered": [
+        "Chemical Bonding",
+        "Organic Chemistry"
+      ]
+    }
+  },
+  "overall_avg_score_pct": 29.5,
+  "slow_session_count": 0,
+  "fast_session_count": 0,
+  "bad_questions_ignored": {
+    "duplicate_id": 5,
+    "missing_answer": 5,
+    "null_difficulty_defaulted": 5
+  }
+}

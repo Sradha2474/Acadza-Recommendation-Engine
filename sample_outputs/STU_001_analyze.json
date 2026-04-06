@@ -1,0 +1,101 @@
+{
+  "student_id": "STU_001",
+  "name": "Arjun Sharma",
+  "total_attempts": 6,
+  "aborted_sessions": 2,
+  "avg_completion_rate_pct": 77.2,
+  "performance_trend": "declining",
+  "improvement_score_pct_points": -25.0,
+  "accuracy_score": 33.5,
+  "speed_score": 36.2,
+  "strengths": [
+    "Organic Chemistry",
+    "Chemical Bonding",
+    "Optics"
+  ],
+  "weaknesses": [
+    "Thermodynamics",
+    "Kinematics",
+    "Electrostatics"
+  ],
+  "chapter_breakdown": {
+    "Thermodynamics": {
+      "attempts": 3,
+      "avg_score_pct": 26.5,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Electrostatics": {
+      "attempts": 2,
+      "avg_score_pct": 39.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Kinematics": {
+      "attempts": 3,
+      "avg_score_pct": 27.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Optics": {
+      "attempts": 1,
+      "avg_score_pct": 40.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Organic Chemistry": {
+      "attempts": 1,
+      "avg_score_pct": 40.8,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Chemical Bonding": {
+      "attempts": 1,
+      "avg_score_pct": 40.8,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Laws of Motion": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Physics"
+      ]
+    }
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "attempts": 5,
+      "avg_score_pct": 31.0,
+      "chapters_covered": [
+        "Electrostatics",
+        "Kinematics",
+        "Laws of Motion",
+        "Optics",
+        "Thermodynamics"
+      ]
+    },
+    "Chemistry": {
+      "attempts": 1,
+      "avg_score_pct": 40.8,
+      "chapters_covered": [
+        "Chemical Bonding",
+        "Organic Chemistry"
+      ]
+    }
+  },
+  "overall_avg_score_pct": 33.5,
+  "slow_session_count": 6,
+  "fast_session_count": 0,
+  "bad_questions_ignored": {
+    "duplicate_id": 5,
+    "missing_answer": 5,
+    "null_difficulty_defaulted": 5
+  }
+}

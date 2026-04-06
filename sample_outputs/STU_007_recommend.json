@@ -1,0 +1,129 @@
+{
+  "student_id": "STU_007",
+  "name": "Vikram Singh",
+  "recommendation_steps": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Electrostatics",
+      "subject": "Physics",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Start with fundamentals on the weakest chapter to reduce conceptual errors.",
+      "message_to_student": "Start with concept revision for Electrostatics. Build a strong base first."
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Electrostatics",
+      "subject": "Physics",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Formula pass right after concept revision improves recall speed.",
+      "message_to_student": "Now revise formulas for Electrostatics so you can solve faster."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Electrostatics",
+      "subject": "Physics",
+      "params": {
+        "difficulty": "medium",
+        "type_split": {
+          "type": "object",
+          "default": {
+            "scq": 20,
+            "mcq": 10,
+            "integer": 5
+          }
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0016",
+        "Q_PHY_0027",
+        "Q_PHY_0041",
+        "Q_PHY_0072",
+        "Q_PHY_0073",
+        "Q_PHY_0076",
+        "Q_PHY_0079",
+        "Q_PHY_0081"
+      ],
+      "reasoning": "Untimed targeted practice improves method accuracy before speed pressure.",
+      "message_to_student": "Solve this focused assignment on Electrostatics with full attention to method."
+    },
+    {
+      "step": 4,
+      "dost_type": "pickingPower",
+      "target_chapter": "Rotational Mechanics",
+      "subject": "Physics",
+      "params": {},
+      "question_ids": [
+        "Q_PHY_0014",
+        "Q_PHY_0043",
+        "Q_PHY_0045",
+        "Q_PHY_0087",
+        "Q_PHY_0006"
+      ],
+      "reasoning": "Option-elimination drill improves decision quality in MCQ settings.",
+      "message_to_student": "Practice elimination strategy on Rotational Mechanics to avoid negative marking."
+    },
+    {
+      "step": 5,
+      "dost_type": "revision",
+      "target_chapter": "Electrostatics",
+      "subject": "Physics",
+      "params": {
+        "alloted_days": 3,
+        "strategy": {
+          "type": "integer",
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 1
+        },
+        "daily_time_minutes": {
+          "type": "integer",
+          "default": 60
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Spaced revision after practice stabilizes long-term retention.",
+      "message_to_student": "Follow this short revision plan for Electrostatics over 3 days."
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceTest",
+      "target_chapter": "Mixed (focus: Electrostatics, Rotational Mechanics)",
+      "subject": "Physics",
+      "params": {
+        "difficulty": "medium",
+        "duration_minutes": 60,
+        "paperPattern": {
+          "type": "string",
+          "options": [
+            "Mains",
+            "Advanced"
+          ],
+          "default": "Mains"
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0003",
+        "Q_PHY_0006",
+        "Q_PHY_0008",
+        "Q_PHY_0016",
+        "Q_PHY_0017",
+        "Q_PHY_0022",
+        "Q_PHY_0023",
+        "Q_PHY_0024",
+        "Q_PHY_0025",
+        "Q_PHY_0027"
+      ],
+      "reasoning": "Timed test validates if concept + practice improvements transfer to exam conditions.",
+      "message_to_student": "Take this mock test in one sitting and review all mistakes afterward."
+    }
+  ],
+  "summary": "Rule-based plan prioritizes weaknesses first, then speed, then exam simulation. Focus: Electrostatics, Rotational Mechanics."
+}

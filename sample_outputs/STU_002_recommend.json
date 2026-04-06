@@ -1,0 +1,129 @@
+{
+  "student_id": "STU_002",
+  "name": "Priya Patel",
+  "recommendation_steps": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Algebra",
+      "subject": "Mathematics",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Start with fundamentals on the weakest chapter to reduce conceptual errors.",
+      "message_to_student": "Start with concept revision for Algebra. Build a strong base first."
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Algebra",
+      "subject": "Mathematics",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Formula pass right after concept revision improves recall speed.",
+      "message_to_student": "Now revise formulas for Algebra so you can solve faster."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Algebra",
+      "subject": "Mathematics",
+      "params": {
+        "difficulty": "easy",
+        "type_split": {
+          "type": "object",
+          "default": {
+            "scq": 20,
+            "mcq": 10,
+            "integer": 5
+          }
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0003",
+        "Q_MAT_0007",
+        "Q_MAT_0012",
+        "Q_MAT_0017",
+        "Q_MAT_0025",
+        "Q_MAT_0028",
+        "Q_MAT_0032",
+        "Q_MAT_0035"
+      ],
+      "reasoning": "Untimed targeted practice improves method accuracy before speed pressure.",
+      "message_to_student": "Solve this focused assignment on Algebra with full attention to method."
+    },
+    {
+      "step": 4,
+      "dost_type": "pickingPower",
+      "target_chapter": "Coordinate Geometry",
+      "subject": "Mathematics",
+      "params": {},
+      "question_ids": [
+        "Q_MAT_0014",
+        "Q_MAT_0027",
+        "Q_MAT_0001",
+        "Q_MAT_0005",
+        "Q_MAT_0010"
+      ],
+      "reasoning": "Option-elimination drill improves decision quality in MCQ settings.",
+      "message_to_student": "Practice elimination strategy on Coordinate Geometry to avoid negative marking."
+    },
+    {
+      "step": 5,
+      "dost_type": "revision",
+      "target_chapter": "Algebra",
+      "subject": "Mathematics",
+      "params": {
+        "alloted_days": 3,
+        "strategy": {
+          "type": "integer",
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 1
+        },
+        "daily_time_minutes": {
+          "type": "integer",
+          "default": 60
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Spaced revision after practice stabilizes long-term retention.",
+      "message_to_student": "Follow this short revision plan for Algebra over 3 days."
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceTest",
+      "target_chapter": "Mixed (focus: Algebra, Coordinate Geometry)",
+      "subject": "Mathematics",
+      "params": {
+        "difficulty": "easy",
+        "duration_minutes": 60,
+        "paperPattern": {
+          "type": "string",
+          "options": [
+            "Mains",
+            "Advanced"
+          ],
+          "default": "Mains"
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0014",
+        "Q_MAT_0015",
+        "Q_MAT_0022",
+        "Q_MAT_0024",
+        "Q_MAT_0027",
+        "Q_MAT_0029",
+        "Q_MAT_0034",
+        "Q_MAT_0001",
+        "Q_MAT_0002",
+        "Q_MAT_0003"
+      ],
+      "reasoning": "Timed test validates if concept + practice improvements transfer to exam conditions.",
+      "message_to_student": "Take this mock test in one sitting and review all mistakes afterward."
+    }
+  ],
+  "summary": "Rule-based plan prioritizes weaknesses first, then speed, then exam simulation. Focus: Algebra, Coordinate Geometry."
+}

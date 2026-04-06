@@ -1,0 +1,155 @@
+{
+  "student_id": "STU_004",
+  "name": "Meera Iyer",
+  "total_attempts": 7,
+  "aborted_sessions": 0,
+  "avg_completion_rate_pct": 100.0,
+  "performance_trend": "improving",
+  "improvement_score_pct_points": 53.0,
+  "accuracy_score": 45.8,
+  "speed_score": 74.2,
+  "strengths": [
+    "Optics",
+    "Thermodynamics",
+    "Kinematics"
+  ],
+  "weaknesses": [
+    "Electrostatics",
+    "Organic Chemistry",
+    "Physical Chemistry"
+  ],
+  "chapter_breakdown": {
+    "Electrostatics": {
+      "attempts": 2,
+      "avg_score_pct": 33.5,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Heat Transfer": {
+      "attempts": 2,
+      "avg_score_pct": 45.5,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Laws of Motion": {
+      "attempts": 2,
+      "avg_score_pct": 45.5,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Organic Chemistry": {
+      "attempts": 2,
+      "avg_score_pct": 45.0,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Physical Chemistry": {
+      "attempts": 2,
+      "avg_score_pct": 45.0,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Chemical Bonding": {
+      "attempts": 2,
+      "avg_score_pct": 45.0,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Probability": {
+      "attempts": 2,
+      "avg_score_pct": null,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Algebra": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Calculus": {
+      "attempts": 2,
+      "avg_score_pct": null,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Thermodynamics": {
+      "attempts": 1,
+      "avg_score_pct": 48.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Kinematics": {
+      "attempts": 1,
+      "avg_score_pct": 48.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Coordinate Geometry": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Optics": {
+      "attempts": 1,
+      "avg_score_pct": 72.0,
+      "subjects": [
+        "Physics"
+      ]
+    }
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "attempts": 3,
+      "avg_score_pct": 46.3,
+      "chapters_covered": [
+        "Electrostatics",
+        "Heat Transfer",
+        "Kinematics",
+        "Laws of Motion",
+        "Optics",
+        "Thermodynamics"
+      ]
+    },
+    "Chemistry": {
+      "attempts": 2,
+      "avg_score_pct": 45.0,
+      "chapters_covered": [
+        "Chemical Bonding",
+        "Organic Chemistry",
+        "Physical Chemistry"
+      ]
+    },
+    "Mathematics": {
+      "attempts": 2,
+      "avg_score_pct": null,
+      "chapters_covered": [
+        "Algebra",
+        "Calculus",
+        "Coordinate Geometry",
+        "Probability"
+      ]
+    }
+  },
+  "overall_avg_score_pct": 45.8,
+  "slow_session_count": 0,
+  "fast_session_count": 0,
+  "bad_questions_ignored": {
+    "duplicate_id": 5,
+    "missing_answer": 5,
+    "null_difficulty_defaulted": 5
+  }
+}

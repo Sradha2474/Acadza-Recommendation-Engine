@@ -1,0 +1,131 @@
+{
+  "student_id": "STU_003",
+  "name": "Rohan Gupta",
+  "total_attempts": 6,
+  "aborted_sessions": 0,
+  "avg_completion_rate_pct": 65.6,
+  "performance_trend": "stable",
+  "improvement_score_pct_points": 2.5,
+  "accuracy_score": 44.2,
+  "speed_score": 77.3,
+  "strengths": [
+    "Organic Chemistry",
+    "Chemical Bonding",
+    "Coordinate Geometry"
+  ],
+  "weaknesses": [
+    "Rotational Mechanics",
+    "Kinematics",
+    "Coordinate Geometry"
+  ],
+  "chapter_breakdown": {
+    "Rotational Mechanics": {
+      "attempts": 1,
+      "avg_score_pct": 40.8,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Kinematics": {
+      "attempts": 2,
+      "avg_score_pct": 40.8,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Coordinate Geometry": {
+      "attempts": 1,
+      "avg_score_pct": 43.3,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Algebra": {
+      "attempts": 1,
+      "avg_score_pct": 43.3,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Electrostatics": {
+      "attempts": 2,
+      "avg_score_pct": 43.3,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Organic Chemistry": {
+      "attempts": 1,
+      "avg_score_pct": 49.2,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Chemical Bonding": {
+      "attempts": 1,
+      "avg_score_pct": 49.2,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Calculus": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Probability": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Optics": {
+      "attempts": 1,
+      "avg_score_pct": 43.3,
+      "subjects": [
+        "Physics"
+      ]
+    }
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "attempts": 3,
+      "avg_score_pct": 42.0,
+      "chapters_covered": [
+        "Electrostatics",
+        "Kinematics",
+        "Optics",
+        "Rotational Mechanics"
+      ]
+    },
+    "Mathematics": {
+      "attempts": 2,
+      "avg_score_pct": 43.3,
+      "chapters_covered": [
+        "Algebra",
+        "Calculus",
+        "Coordinate Geometry",
+        "Probability"
+      ]
+    },
+    "Chemistry": {
+      "attempts": 1,
+      "avg_score_pct": 49.2,
+      "chapters_covered": [
+        "Chemical Bonding",
+        "Organic Chemistry"
+      ]
+    }
+  },
+  "overall_avg_score_pct": 44.2,
+  "slow_session_count": 0,
+  "fast_session_count": 0,
+  "bad_questions_ignored": {
+    "duplicate_id": 5,
+    "missing_answer": 5,
+    "null_difficulty_defaulted": 5
+  }
+}

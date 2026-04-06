@@ -1,0 +1,131 @@
+{
+  "student_id": "STU_010",
+  "name": "Neha Joshi",
+  "total_attempts": 7,
+  "aborted_sessions": 0,
+  "avg_completion_rate_pct": 100.0,
+  "performance_trend": "stable",
+  "improvement_score_pct_points": -4.2,
+  "accuracy_score": 76.8,
+  "speed_score": 84.9,
+  "strengths": [
+    "Optics",
+    "Heat Transfer",
+    "Calculus"
+  ],
+  "weaknesses": [
+    "Rotational Mechanics",
+    "Electrostatics",
+    "Probability"
+  ],
+  "chapter_breakdown": {
+    "Optics": {
+      "attempts": 2,
+      "avg_score_pct": 80.8,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Heat Transfer": {
+      "attempts": 2,
+      "avg_score_pct": 80.8,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Chemical Bonding": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Organic Chemistry": {
+      "attempts": 2,
+      "avg_score_pct": null,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Probability": {
+      "attempts": 1,
+      "avg_score_pct": 76.7,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Coordinate Geometry": {
+      "attempts": 2,
+      "avg_score_pct": 78.8,
+      "subjects": [
+        "Mathematics"
+      ]
+    },
+    "Rotational Mechanics": {
+      "attempts": 1,
+      "avg_score_pct": 65.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Electrostatics": {
+      "attempts": 1,
+      "avg_score_pct": 65.0,
+      "subjects": [
+        "Physics"
+      ]
+    },
+    "Physical Chemistry": {
+      "attempts": 1,
+      "avg_score_pct": null,
+      "subjects": [
+        "Chemistry"
+      ]
+    },
+    "Calculus": {
+      "attempts": 1,
+      "avg_score_pct": 80.8,
+      "subjects": [
+        "Mathematics"
+      ]
+    }
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "attempts": 3,
+      "avg_score_pct": 75.6,
+      "chapters_covered": [
+        "Electrostatics",
+        "Heat Transfer",
+        "Optics",
+        "Rotational Mechanics"
+      ]
+    },
+    "Chemistry": {
+      "attempts": 2,
+      "avg_score_pct": null,
+      "chapters_covered": [
+        "Chemical Bonding",
+        "Organic Chemistry",
+        "Physical Chemistry"
+      ]
+    },
+    "Mathematics": {
+      "attempts": 2,
+      "avg_score_pct": 78.8,
+      "chapters_covered": [
+        "Calculus",
+        "Coordinate Geometry",
+        "Probability"
+      ]
+    }
+  },
+  "overall_avg_score_pct": 76.8,
+  "slow_session_count": 0,
+  "fast_session_count": 0,
+  "bad_questions_ignored": {
+    "duplicate_id": 5,
+    "missing_answer": 5,
+    "null_difficulty_defaulted": 5
+  }
+}

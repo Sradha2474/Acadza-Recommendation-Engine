@@ -1,0 +1,129 @@
+{
+  "student_id": "STU_005",
+  "name": "Karan Mehta",
+  "recommendation_steps": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Start with fundamentals on the weakest chapter to reduce conceptual errors.",
+      "message_to_student": "Start with concept revision for Organic Chemistry. Build a strong base first."
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Formula pass right after concept revision improves recall speed.",
+      "message_to_student": "Now revise formulas for Organic Chemistry so you can solve faster."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "params": {
+        "difficulty": "easy",
+        "type_split": {
+          "type": "object",
+          "default": {
+            "scq": 20,
+            "mcq": 10,
+            "integer": 5
+          }
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0018",
+        "Q_CHE_0046",
+        "Q_CHE_0060",
+        "Q_CHE_0003",
+        "Q_CHE_0031",
+        "Q_CHE_0035",
+        "Q_CHE_0040",
+        "Q_CHE_0043"
+      ],
+      "reasoning": "Untimed targeted practice improves method accuracy before speed pressure.",
+      "message_to_student": "Solve this focused assignment on Organic Chemistry with full attention to method."
+    },
+    {
+      "step": 4,
+      "dost_type": "pickingPower",
+      "target_chapter": "Chemical Bonding",
+      "subject": "Chemistry",
+      "params": {},
+      "question_ids": [
+        "Q_CHE_0005",
+        "Q_CHE_0008",
+        "Q_CHE_0024",
+        "Q_CHE_0029",
+        "Q_CHE_0030"
+      ],
+      "reasoning": "Option-elimination drill improves decision quality in MCQ settings.",
+      "message_to_student": "Practice elimination strategy on Chemical Bonding to avoid negative marking."
+    },
+    {
+      "step": 5,
+      "dost_type": "revision",
+      "target_chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "params": {
+        "alloted_days": 3,
+        "strategy": {
+          "type": "integer",
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 1
+        },
+        "daily_time_minutes": {
+          "type": "integer",
+          "default": 60
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Spaced revision after practice stabilizes long-term retention.",
+      "message_to_student": "Follow this short revision plan for Organic Chemistry over 3 days."
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceTest",
+      "target_chapter": "Mixed (focus: Organic Chemistry, Chemical Bonding)",
+      "subject": "Chemistry",
+      "params": {
+        "difficulty": "easy",
+        "duration_minutes": 60,
+        "paperPattern": {
+          "type": "string",
+          "options": [
+            "Mains",
+            "Advanced"
+          ],
+          "default": "Mains"
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0005",
+        "Q_CHE_0008",
+        "Q_CHE_0018",
+        "Q_CHE_0024",
+        "Q_CHE_0029",
+        "Q_CHE_0030",
+        "Q_CHE_0033",
+        "Q_CHE_0046",
+        "Q_CHE_0047",
+        "Q_CHE_0055"
+      ],
+      "reasoning": "Timed test validates if concept + practice improvements transfer to exam conditions.",
+      "message_to_student": "Take this mock test in one sitting and review all mistakes afterward."
+    }
+  ],
+  "summary": "Rule-based plan prioritizes weaknesses first, then speed, then exam simulation. Focus: Organic Chemistry, Chemical Bonding."
+}
